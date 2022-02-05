@@ -1,0 +1,14 @@
+Walk: w
+Walk Backwards: s
+Run: w + a
+Running Jump: a + r
+Jump: r
+Crouch: d
+Crouch Walk: w + d
+Crouch Walk Backwards: s + d
+Punch: e
+Kick: q
+Idle: 1
+Die: 2
+Stop: 3
+Dance: 4
